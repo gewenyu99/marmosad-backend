@@ -1,0 +1,10 @@
+runtime: nodejs
+env: flex
+
+manual_scaling:
+  instances: 1
+
+handlers:
+  - url: /favicon.ico
+    static_files: dist/goose.ico
+    upload: dist/goose.ico

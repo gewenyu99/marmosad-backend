@@ -71,3 +71,5 @@ typings/
 .elasticbeanstalk/*
 !.elasticbeanstalk/*.cfg.yml
 !.elasticbeanstalk/*.global.yml
+
+1\.0\.0\.zip
